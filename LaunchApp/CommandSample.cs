@@ -3,7 +3,7 @@ using CliFx.Infrastructure;
 
 namespace LaunchApp;
 
-[Command(Description = "Execute Command Design Pattern")]
+[Command(name: "Command", Description = "Execute Command Design Pattern Sample")]
 public class CommandSample : CliFx.ICommand
 {
     public async ValueTask ExecuteAsync(IConsole console)
