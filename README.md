@@ -1,5 +1,17 @@
 Design Pattern Samples
 ---
-### Conceptual implementations of common used Design Patterns in C#
+### Conceptual implementations of some Design Patterns in C#
 
-- [ ] [Command](./Command)
+> Not a completed list
+
+#### Creational
+- [ ] Factory Method
+- [ ] Prototype
+#### Structural
+- [ ] Adapter
+- [ ] Decorator
+#### Behavioral
+- [X] [Command](./Command)
+- [ ] Chain Of Responsibility
+- [ ] Observer
+- [ ] Visitor

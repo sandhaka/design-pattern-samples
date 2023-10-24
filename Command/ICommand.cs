@@ -1,6 +1,6 @@
 namespace Command;
 
-internal interface ICommand
+public interface ICommand
 {
     public Task Execute();
 }
