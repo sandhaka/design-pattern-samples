@@ -12,6 +12,6 @@ Design Pattern Samples
 - [ ] Decorator
 #### Behavioral
 - [X] [Command](./Command)
-- [ ] Chain Of Responsibility
+- [X] [Chain Of Responsibility](./ChainOfResponsibility)
 - [ ] Observer
 - [ ] Visitor
