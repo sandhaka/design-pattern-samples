@@ -13,5 +13,5 @@ Design Pattern Samples
 #### Behavioral
 - [X] [Command](./Command)
 - [X] [Chain Of Responsibility](./ChainOfResponsibility)
-- [ ] Observer
+- [X] [Observer](./Observer)
 - [ ] Visitor
