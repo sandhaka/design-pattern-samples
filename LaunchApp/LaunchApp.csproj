@@ -11,6 +11,7 @@
       <ProjectReference Include="..\ChainOfResponsibility\ChainOfResponsibility.csproj" />
       <ProjectReference Include="..\Command\Command.csproj" />
       <ProjectReference Include="..\Observer\Observer.csproj" />
+      <ProjectReference Include="..\Prototype\Prototype.csproj" />
     </ItemGroup>
 
     <ItemGroup>

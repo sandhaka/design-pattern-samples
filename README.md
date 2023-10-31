@@ -4,13 +4,9 @@ Design Pattern Samples
 
 > Not a completed list
 
-#### Creational
-- [ ] Factory Method
-- [ ] Prototype
-#### Structural
+- [X] [Prototype](./Prototype)
 - [ ] Adapter
 - [ ] Decorator
-#### Behavioral
 - [X] [Command](./Command)
 - [X] [Chain Of Responsibility](./ChainOfResponsibility)
 - [X] [Observer](./Observer)
